@@ -1,0 +1,1 @@
+Mebreyoket.bat yok eder. Mebreyibul.bat bulur. Baslangic.vbs başlangıça ekler ama şu anlık çalışmıyor. Mebrecepyokedici.exe ise uygulama.
